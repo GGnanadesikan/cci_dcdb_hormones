@@ -1,2 +1,4 @@
 # cci_dcdb_hormones
 This repository contains the raw data, R environments, and code for the paper "Basal Plasma Oxytocin &amp; Fecal Cortisol Concentrations are Highly Heritable and Associated with Individual Differences in Behavior &amp; Cognition in Dog Puppies"
+
+An rproj file is included to enable easy navigation of the file structure. CSV files in the "Pub_data" directory are included for reference purposes. The scripts themselves use data stored in .RData files in the "Environments" directory. Four scripts are included in the "Pub_Scripts" directory: one for the oxytocin-cortisol dependence analysis, one for both hormone heritability analyses, one for all single hormone-DCDB association analyses, and a final script for the additive model with both oxytocin and cortisol predicting DCDB phenotypes.
